@@ -1,9 +1,9 @@
-public class Car extends Vehicle {
-    private final boolean hasAirConditioning;
+public class Car extends Vehicle {   // creation of a class named Car that inherits from Vehicle
+    private final boolean hasAirConditioning; 
 
-    public Car(String licensePlate, String model, double dailyRate, boolean hasAirConditioning) {
-        super(licensePlate, model, dailyRate);
-        this.hasAirConditioning = hasAirConditioning;
+    public Car(String licensePlate, String model, double dailyRate, boolean hasAirConditioning) { // constructor 
+        super(licensePlate, model, dailyRate);  // calling the constructor of parent class Vehicle
+        this.hasAirConditioning = hasAirConditioning;  
     }
 
     @Override
