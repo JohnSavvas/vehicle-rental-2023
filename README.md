@@ -3,7 +3,7 @@
 Project for the **Object-Oriented Programming with Java** course.
 
 **Academic Year:** 2023–2024
-**Student:** John Savvas
+**Student:** Ioannis Savvas
 
 ## Description
 
