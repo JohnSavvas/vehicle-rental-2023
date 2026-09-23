@@ -1,26 +1,26 @@
 # Vehicle Rental System
 
-Εργασία στο μάθημα Αντικειμενοστρεφής Προγραμματισμός με Java.
+Project for the **Object-Oriented Programming with Java** course.
 
-**Ακαδημαϊκό Έτος:** 2023-2024  
-**Φοιτητής:** John Savvas
+**Academic Year:** 2023–2024
+**Student:** John Savvas
 
-## Περιγραφή
+## Description
 
-Η εφαρμογή διαχειρίζεται οχήματα μιας εταιρείας ενοικίασης. Υποστηρίζει αυτοκίνητα και μοτοσυκλέτες και υπολογίζει το κόστος ενοικίασης ανάλογα με τον αριθμό ημερών και τα χαρακτηριστικά κάθε οχήματος.
+The application manages vehicles for a rental company. It supports cars and motorcycles and calculates the rental cost based on the number of rental days and the characteristics of each vehicle.
 
-## Εκτέλεση
+## How to Run
 
-Για την εκτέλεση της εφαρμογής, ανοίξτε και εκτελέστε την κλάση `Main`.
+To run the application, open and execute the `Main` class.
 
-Για την εκτέλεση των δοκιμών:
+To run the tests:
 
 ```bash
 mvn test
 ```
 
-## Τεχνολογίες
+## Technologies
 
-- Java 17
-- Maven
-- JUnit 5
+* Java 17
+* Maven
+* JUnit 5
