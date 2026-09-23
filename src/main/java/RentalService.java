@@ -1,3 +1,5 @@
+// the class that manage all vehicles in rental system
+
 import java.util.ArrayList;
 import java.util.List;
 
