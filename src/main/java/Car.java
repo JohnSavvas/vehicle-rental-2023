@@ -2,7 +2,7 @@ public class Car extends Vehicle {   // creation of a class named Car that inher
     private final boolean hasAirConditioning; 
 
     public Car(String licensePlate, String model, double dailyRate, boolean hasAirConditioning) { // constructor 
-        super(licensePlate, model, dailyRate);  // calling the constructor of parent class Vehicle
+        super(licensePlate, model, dailyRate);  // calling the constructor of parent class Vehicle.
         this.hasAirConditioning = hasAirConditioning;  
     }
 
