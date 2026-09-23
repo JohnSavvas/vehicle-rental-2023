@@ -1,3 +1,6 @@
+// Vehicle is the base abstract class for all vehicles. 
+//It stores their common information and defines the common behavior that subclasses like Car and Motorcycle must implement.
+
 public abstract class Vehicle implements Rentable {
     private final String licensePlate;
     private final String model;
