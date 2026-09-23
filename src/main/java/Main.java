@@ -3,6 +3,9 @@
  * Ακαδημαϊκό Έτος: 2023-2024
  * Φοιτητής: Ioannis Savvas
  */
+// The Main class creates the rental service and adds sample vehicles, such as a car and a motorcycle. 
+//It then shows their details, calculates rental costs, searches for a vehicle by license plate, and calculates the total income.
+
 public class Main {
     public static void main(String[] args) {
         RentalService rentalService = new RentalService();
