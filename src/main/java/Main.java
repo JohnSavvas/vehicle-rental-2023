@@ -1,7 +1,7 @@
 /*
  * Αντικειμενοστρεφής Προγραμματισμός - Εργασία Java
  * Ακαδημαϊκό Έτος: 2023-2024
- * Φοιτητής: John Savvas
+ * Φοιτητής: Ioannis Savvas
  */
 public class Main {
     public static void main(String[] args) {
